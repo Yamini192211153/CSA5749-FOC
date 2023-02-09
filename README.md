@@ -19,7 +19,7 @@
 ##shell(square of a number)![image](https://user-images.githubusercontent.com/122251759/217825271-71966285-27a3-4d69-ba63-a52d3f6cc974.png)
 ##shell(arthimetic operation)![image](https://user-images.githubusercontent.com/122251759/217825583-cfe7402b-1194-4368-822d-d2c74090ddb2.png)
 ##shell(factorial)![image](https://user-images.githubusercontent.com/122251759/217825942-5473efc3-da1b-4377-b914-bbce247082eb.png)
-##(172)10 ![image](https://user-images.githubusercontent.com/122251759/217838486-8e3a2786-1655-493e-bbf5-185864c59e9c.png)
+##(172)10 ![image](https://user-images.githubusercontent.com/122251759/217876472-31a69201-5b9e-49dc-8a34-1e3c4882cdb4.png)
 ##(175)10 ![image](https://user-images.githubusercontent.com/122251759/217839141-8980201d-5a96-4fb4-9495-9b17529ffbd7.png)
 ##(2020)10 ![image](https://user-images.githubusercontent.com/122251759/217839819-07ded43d-3b27-42d2-bd67-7ba994d9607a.png)
 ## 122810 to hex ![image](https://user-images.githubusercontent.com/122251759/217840268-fad71202-93b0-42ec-8013-06c69af9d325.png)
