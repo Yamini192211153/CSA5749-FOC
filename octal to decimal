@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	int n;
+	printf("enter the number :");
+	scanf("%o",&n);
+	printf("the number in octal is %d",n);
+	return 0;
+}
