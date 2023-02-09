@@ -19,5 +19,7 @@
 ##shell(square of a number)![image](https://user-images.githubusercontent.com/122251759/217825271-71966285-27a3-4d69-ba63-a52d3f6cc974.png)
 ##shell(arthimetic operation)![image](https://user-images.githubusercontent.com/122251759/217825583-cfe7402b-1194-4368-822d-d2c74090ddb2.png)
 ##shell(factorial)![image](https://user-images.githubusercontent.com/122251759/217825942-5473efc3-da1b-4377-b914-bbce247082eb.png)
+##(172)10 ![image](https://user-images.githubusercontent.com/122251759/217838486-8e3a2786-1655-493e-bbf5-185864c59e9c.png)
+
 
 
