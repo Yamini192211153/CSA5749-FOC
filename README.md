@@ -24,7 +24,7 @@
 ##(2020)10 ![image](https://user-images.githubusercontent.com/122251759/217839819-07ded43d-3b27-42d2-bd67-7ba994d9607a.png)
 ## 122810 to hex ![image](https://user-images.githubusercontent.com/122251759/217840268-fad71202-93b0-42ec-8013-06c69af9d325.png)
 ##1542 to hex![image](https://user-images.githubusercontent.com/122251759/217840832-28ff7c29-041f-476c-955f-a810070eac99.png)
-##2020.65625![image](https://user-images.githubusercontent.com/122251759/217841475-657687cc-8214-466e-80ec-9db534a7998b.png)
+##2020.65625 ![image](https://user-images.githubusercontent.com/122251759/217841475-657687cc-8214-466e-80ec-9db534a7998b.png)
 ##49 to hex![image](https://user-images.githubusercontent.com/122251759/217841992-cf920749-4e40-4e96-a5ff-962b1afca0df.png)
 ##60010 to hex![image](https://user-images.githubusercontent.com/122251759/217842376-26347051-ca77-493b-935a-2a575070d6f6.png)
 ##BINARY to decimal![image](https://user-images.githubusercontent.com/122251759/217842774-a1ae759b-d197-45de-b1b0-83c9d24b65bb.png)
