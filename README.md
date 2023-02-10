@@ -15,9 +15,9 @@
 ## experiment 14 ![image](https://user-images.githubusercontent.com/122251759/217582500-3e581c72-d307-4f67-8623-0b3103a2edad.png)
 ## experiment 15 ![image](https://user-images.githubusercontent.com/122251759/217582812-1571ac30-99b9-4e4f-8eb3-002adc77e293.png)
 ## experiment 16 ![image](https://user-images.githubusercontent.com/122251759/217583287-2dbe1679-d575-47e5-86f9-42d8801b5463.png)
-##shell(leap year)![image](https://user-images.githubusercontent.com/122251759/217824928-33a2e3c4-9896-4388-81c4-b593a8c79884.png)
-##shell(square of a number)![image](https://user-images.githubusercontent.com/122251759/217825271-71966285-27a3-4d69-ba63-a52d3f6cc974.png)
-##shell(arthimetic operation)![image](https://user-images.githubusercontent.com/122251759/217825583-cfe7402b-1194-4368-822d-d2c74090ddb2.png)
+##shell(leap year)![image](https://user-images.githubusercontent.com/122251759/218032616-918d1c79-2603-4347-a46e-98bf33681df4.png)
+##shell(square of a number)![image](https://user-images.githubusercontent.com/122251759/218032016-66c2bfdc-3851-42f1-a2f5-ae8ecac17687.png)
+##shell(arthimetic operation)![image](https://user-images.githubusercontent.com/122251759/218032198-6ebf3910-1a89-47d6-aa7c-fd47b74a1dca.png)
 ##shell(factorial)![image](https://user-images.githubusercontent.com/122251759/217825942-5473efc3-da1b-4377-b914-bbce247082eb.png)
 ##(172)10 ![image](https://user-images.githubusercontent.com/122251759/217876472-31a69201-5b9e-49dc-8a34-1e3c4882cdb4.png)
 ##(175)10 ![image](https://user-images.githubusercontent.com/122251759/218001849-8ed5b2e3-1cdd-4b4c-b76f-6c704422b585.png)
@@ -50,6 +50,9 @@
 ## hexa to decimal ![image](https://user-images.githubusercontent.com/122251759/218006385-711c3c1d-948a-4bc7-a467-20413a96f90f.png)
 ## index search ![image](https://user-images.githubusercontent.com/122251759/218006644-82a66adb-e45f-4d5a-9b21-e85c088df4dc.png)
 ## octal to decimal![image](https://user-images.githubusercontent.com/122251759/218006858-ef0dbf51-e9b9-4154-8a4f-6fd53aeea50b.png)
+##shell(biggest of 3)![image](https://user-images.githubusercontent.com/122251759/218032469-062f8bd4-83f4-4a46-8cdd-f22b0b067f2f.png)
+##shell(prepare mark list using of elif)![image](https://user-images.githubusercontent.com/122251759/218032959-e8dc0a7e-2b73-4caf-a2bf-187354800609.png)
+
 
 
 
