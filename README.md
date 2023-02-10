@@ -52,6 +52,8 @@
 ## octal to decimal![image](https://user-images.githubusercontent.com/122251759/218006858-ef0dbf51-e9b9-4154-8a4f-6fd53aeea50b.png)
 ##shell(biggest of 3)![image](https://user-images.githubusercontent.com/122251759/218032469-062f8bd4-83f4-4a46-8cdd-f22b0b067f2f.png)
 ##shell(prepare mark list using of elif)![image](https://user-images.githubusercontent.com/122251759/218032959-e8dc0a7e-2b73-4caf-a2bf-187354800609.png)
+##shell(natural number)![image](https://user-images.githubusercontent.com/122251759/218035876-4ef27ae2-c360-4b8a-bf23-a57d535304f1.png)
+
 
 
 
