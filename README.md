@@ -57,6 +57,8 @@
 ##area of diff ![image](https://user-images.githubusercontent.com/122251759/218037474-b4a907e3-c2b4-4c45-84c6-634eac769094.png)
 ##palindrome check ![image](https://user-images.githubusercontent.com/122251759/218041366-5140734b-8bd9-4c6c-bd44-d188b6851cdf.png)
 ##bio data ![image](https://user-images.githubusercontent.com/122251759/218046581-f692c94c-bb79-4e6c-a92c-eb6422bc272d.png)
+##shell(factorial using recursion)![image](https://user-images.githubusercontent.com/122251759/218047454-c6d8c55e-a8c4-4180-8369-84a80859ad72.png)
+
 
 
  
