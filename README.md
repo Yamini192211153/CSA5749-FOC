@@ -59,6 +59,7 @@
 ##bio data ![image](https://user-images.githubusercontent.com/122251759/218046581-f692c94c-bb79-4e6c-a92c-eb6422bc272d.png)
 ##shell(factorial using recursion)![image](https://user-images.githubusercontent.com/122251759/218047454-c6d8c55e-a8c4-4180-8369-84a80859ad72.png)
 ##odd position ![image](https://user-images.githubusercontent.com/122251759/218047929-bfb29dd9-ae01-46a5-a370-b3f6cc145e87.png)
+##reverse a string ![image](https://user-images.githubusercontent.com/122251759/218048531-71c0da1a-79f1-4057-83d2-4903a352d8d5.png)
 
 
 
