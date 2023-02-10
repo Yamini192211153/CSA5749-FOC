@@ -53,6 +53,7 @@
 ##shell(biggest of 3)![image](https://user-images.githubusercontent.com/122251759/218032469-062f8bd4-83f4-4a46-8cdd-f22b0b067f2f.png)
 ##shell(prepare mark list using of elif)![image](https://user-images.githubusercontent.com/122251759/218032959-e8dc0a7e-2b73-4caf-a2bf-187354800609.png)
 ##shell(natural number)![image](https://user-images.githubusercontent.com/122251759/218035876-4ef27ae2-c360-4b8a-bf23-a57d535304f1.png)
+##Quadratic equation ![image](https://user-images.githubusercontent.com/122251759/218036545-1be6a8b7-54e5-49e9-816e-cfa46c7cc053.png)
 
 
 
