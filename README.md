@@ -61,6 +61,8 @@
 ##odd position ![image](https://user-images.githubusercontent.com/122251759/218047929-bfb29dd9-ae01-46a5-a370-b3f6cc145e87.png)
 ##reverse a string ![image](https://user-images.githubusercontent.com/122251759/218048531-71c0da1a-79f1-4057-83d2-4903a352d8d5.png)
 ##shell(swapping of numbers) ![image](https://user-images.githubusercontent.com/122251759/218049051-f44c1052-64e6-4189-b505-dc6c1eb3c354.png)
+##sum,avg and product ![image](https://user-images.githubusercontent.com/122251759/218049687-17b80bc2-6f9a-4f1b-9bb2-233b4e7c0684.png)
+
 
 
 
