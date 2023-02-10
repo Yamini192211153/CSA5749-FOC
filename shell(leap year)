@@ -1,12 +1,12 @@
-echo "Enter Year:"
+echo -n "Enter year (YYYY): "
 read y
- 
-year=$y
- 
-y=$(( $y % 4 ))
-if [ $y -eq 0 ]
-then
-    echo "$year is Leap Year!"
+a = 'expr $y%4'
+b = 'expr $y%100'
+c = 'expr $y%400'
+if[$a -eq 0 -a $b -ne - -o $c -eq 0]
+then 
+echo "$y is leap year"
 else
-    echo "$year is not a Leap Year!"
+echo "$y is not a leap year"
+
 fi
