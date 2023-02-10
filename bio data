@@ -1,0 +1,6 @@
+echo " enter your name "
+read name
+echo " enter your programe name "
+read program
+echo " enter your enrollement number "
+read number
