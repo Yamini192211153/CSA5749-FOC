@@ -1,4 +1,6 @@
-echo "enter the number"
-read a
-square=`expr $a \* $a`
-echo $square
+#!/bin/bash
+echo "Enter any number"
+read n
+echo "Number is $n"
+echo "Square of Number is "
+echo "$n * $n" | bc
