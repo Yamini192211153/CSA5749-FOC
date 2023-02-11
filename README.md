@@ -64,6 +64,8 @@
 ##sum,avg and product ![image](https://user-images.githubusercontent.com/122251759/218049687-17b80bc2-6f9a-4f1b-9bb2-233b4e7c0684.png)
 ##concatenate ![image](https://user-images.githubusercontent.com/122251759/218051699-6ac4dd75-bad8-4ddc-84b4-e5f36554c31b.png)
 ##shell(gcd)![image](https://user-images.githubusercontent.com/122251759/218234794-7e3316be-e70e-46a1-a39f-1fe3327afda0.png)
+##sum,sub and multiplication ![image](https://user-images.githubusercontent.com/122251759/218234913-bf86c4de-38e0-4be1-9f17-eeb77774d365.png)
+
 
 
 
