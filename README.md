@@ -63,6 +63,8 @@
 ##shell(swapping of numbers) ![image](https://user-images.githubusercontent.com/122251759/218049051-f44c1052-64e6-4189-b505-dc6c1eb3c354.png)
 ##sum,avg and product ![image](https://user-images.githubusercontent.com/122251759/218049687-17b80bc2-6f9a-4f1b-9bb2-233b4e7c0684.png)
 ##concatenate ![image](https://user-images.githubusercontent.com/122251759/218051699-6ac4dd75-bad8-4ddc-84b4-e5f36554c31b.png)
+##shell(gcd)![image](https://user-images.githubusercontent.com/122251759/218234794-7e3316be-e70e-46a1-a39f-1fe3327afda0.png)
+
 
 
 
