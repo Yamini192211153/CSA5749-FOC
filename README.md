@@ -68,6 +68,8 @@
 ##Advertisement ![Screenshot (71)](https://user-images.githubusercontent.com/122251759/218639319-d258ee4e-98dd-46b9-83c2-9b50440af829.png)
 ##Mail Merge ![Screenshot_20230214_094750](https://user-images.githubusercontent.com/122251759/218639492-ba6bc88e-b5e0-493f-9815-ffd436f35a80.png)
 ##spread sheet ![image](https://user-images.githubusercontent.com/122251759/218639682-179e1562-568d-45fc-9ae0-bbf04c213ac7.png)
+##power point ![Screenshot (74)](https://user-images.githubusercontent.com/122251759/218639983-ec01c3bc-2aca-48f0-b537-f57f1d947446.png)
+
 
 
 
